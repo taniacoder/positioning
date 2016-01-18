@@ -1,0 +1,43 @@
+#contenedor { 
+}
+
+.rojo {
+			width: 150px;
+			height: 100px;
+			background: red;
+			position: absolute;
+			left: 0;
+			top: 0;
+			
+}
+
+.azul {
+			width: 150px;
+			height: 100px;
+			background: blue;
+			position: absolute;
+			
+			right: 0;
+			top: 0
+			
+}
+
+.verde {
+			width: 150px;
+			height: 100px;
+			background: green;
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			
+}
+
+.amarillo {
+			width: 150px;
+			height: 100px;
+			background: yellow;
+			position: absolute;
+			right: 0;
+			bottom: 0;
+			
+}
